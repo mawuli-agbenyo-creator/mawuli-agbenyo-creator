@@ -3,23 +3,23 @@
 
 ### 👋 Hello, World! I'm Mawuli Agbenyo
 
-Aspiring programmer and passionate hacker, I thrive in the realm of code, where I craft solutions to challenges that fuel my curiosity. Welcome to my GitHub playground, where I unleash my creativity and technical prowess to build innovative projects and explore the depths of technology.
+Aspiring DevOps/Backend Dev and cloud engineer, I thrive in the realm of code, where I craft solutions to challenges that fuel my curiosity. Welcome to my GitHub playground, where I unleash my creativity and technical prowess to build innovative projects and explore the depths of technology.
 
 ### 💻 Tech Stack
 
-- Programming Languages: Python, JavaScript, C++, Java
-- Web Technologies: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Tools & Frameworks: Git, Docker, Flask, Express.js
-- Operating Systems: Linux, macOS
+- Programming Languages: Python, JavaScript, Java, PHP(Laravel)
+- Web Technologies: HTML, CSS, Laravel, Node.js
+- Databases: MySQL, Oracle Database
+- Tools & Frameworks: Git, Docker, Laravel, Express.js
+- Operating Systems: Linux, Windows
 
 ### 🌱 Current Projects
 
 1. [Project Name](https://github.com/your-username/project-repo)
    > Short project description goes here. Showcase your accomplishments and what you're aiming to achieve.
 
-2. [Another Project](https://github.com/your-username/another-project-repo)
-   > A brief description of this project and the exciting features it holds.
+2. [Another Project](https://github.com/mawuli-agbenyo-creator/PMS):(private)
+   > A Performance Management System
 
 ### 🚀 Past Endeavors
 
@@ -34,6 +34,7 @@ Constantly exploring new technologies and techniques to broaden my skills and st
 - Artificial Intelligence and Machine Learning
 - Cybersecurity and Ethical Hacking
 - Blockchain and Smart Contracts
+- Cloud and DevOps
 
 ### 🌟 Achievements
 
