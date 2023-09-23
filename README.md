@@ -1,5 +1,5 @@
 <!-- Replace the image URL below with your header image -->
-[![Profile Header](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)](https://github.com/mawuli-agbenyo-creator)
+[![Profile Header]()](https://github.com/mawuli-agbenyo-creator)
 
 ### 👋 Hello, World! I'm Mawuli Agbenyo
 
