@@ -6,12 +6,10 @@ I'm a Backend developer
 
 I have been Coding for three years now. I love building highly scalable products with great technological tools for clients. I have worked with startups and open-source projects.
 
-*   🌍  I'm based in Kumasi, Ghana
+*   🌍  I'm based in Accra, Ghana
 *   ✉️  You can contact me at [mawulikofiagbenyo@gmail.com](mailto:mawulikofiagbenyo@gmail.com)
 *   🧠  I'm program in Laravel (php), Python, NodeJs
-*   🤝  I'm open to collaborating on Interesting projects<a href="https://www.twitter.com/apersil_edward" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/apersil_edward?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+*   🤝  I'm open to collaborating on Interesting projects<a href="https://www.twitter.com/apersil_edward" target="_blank" rel="noreferrer"></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
