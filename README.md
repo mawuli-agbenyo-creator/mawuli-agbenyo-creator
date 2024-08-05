@@ -1,66 +1,31 @@
-<!-- Replace the image URL below with your header image -->
-[![Profile Header]()](https://github.com/mawuli-agbenyo-creator)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edward Apersil
+======================================================================================================================================
 
-### 👋 Hello, World! I'm Mawuli Agbenyo
+I'm a Backend developer
+-------------------------
 
-Aspiring DevOps/Backend Dev and cloud engineer, I thrive in the realm of code, where I craft solutions to challenges that fuel my curiosity. Welcome to my GitHub playground, where I unleash my creativity and technical prowess to build innovative projects and explore the depths of technology.
+I have been Coding for about a three years now. I love building highly scalable products with great technological tools for clients. I have worked with startups and open-source projects.
 
-### 💻 Tech Stack
-
-- Programming Languages: Python, JavaScript, Java, PHP(Laravel)
-- Web Technologies: HTML, CSS, Laravel, Node.js
-- Databases: MySQL, Oracle Database
-- Tools & Frameworks: Git, Docker, Laravel, Express.js
-- Operating Systems: Linux, Windows
-
-### 🌱 Current Projects
-
-1. [Project Name](https://github.com/your-username/project-repo)
-   > Short project description goes here. Showcase your accomplishments and what you're aiming to achieve.
-
-2. [Another Project](https://github.com/mawuli-agbenyo-creator/PMS):(private)
-   > A Performance Management System
-
-### 🚀 Past Endeavors
-
-- [Past Project 1](https://github.com/your-username/past-project-1)
-- [Past Project 2](https://github.com/your-username/past-project-2)
-- [Past Project 3](https://github.com/your-username/past-project-3)
-
-### 🔭 What I'm Learning
-
-Constantly exploring new technologies and techniques to broaden my skills and stay ahead in the ever-evolving tech landscape. Currently diving into:
-
-- Artificial Intelligence and Machine Learning
-- Cybersecurity and Ethical Hacking
-- Blockchain and Smart Contracts
-- Cloud and DevOps
-
-### 🌟 Achievements
-
-- Hackathon Champion: XYZ Hackathon 2022
-- Open Source Contributor: [Project Name](https://github.com/open-source-project)
-- [Any relevant certifications or awards]
-
-### 📫 Get in Touch
-
-- Website: [your-website.com](https://your-website.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-username/)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- Email: mawulikofiagbenyo@gmail.com
-
-### 🕵️‍♂️ Hacker Ethos
-
-As a hacker, my mission is to unravel the secrets of technology, ensuring its security, and pushing its boundaries ethically. I firmly believe in the power of knowledge and the importance of sharing it responsibly. I advocate for privacy, freedom of information, and believe in using my skills for positive, transformative change.
-
-**_Note: As a responsible hacker, I strictly adhere to ethical guidelines, respecting laws and not engaging in any malicious activities._**
-
-### 📝 Open Source and Collaboration
-
-Collaboration is the heart of the open-source community. I'm a strong advocate of open-source principles, and many of my projects are available for contributions. Feel free to reach out if you'd like to collaborate on any exciting projects together.
-
-### ⚡ Fun Fact
-
-_Your fun fact goes here! Show your unique side and let others see the person behind the code._
-
-Thank you for visiting my GitHub profile. Let's connect and embark on a journey of innovation, learning, and positive impact on the world through technology! 🚀
+*   🌍  I'm based in Kumasi, Ghana
+*   ✉️  You can contact me at [mawulikofiagbenyo@gmail.com](mailto:mawulikofiagbenyo@gmail.com)
+*   🧠  I'm program in Laravel (php), Python, NodeJs
+*   🤝  I'm open to collaborating on Interesting projects<a href="https://www.twitter.com/apersil_edward" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/apersil_edward?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.python.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
+                    
+                
