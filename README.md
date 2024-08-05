@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Backend developer
 -------------------------
 
-I have been Coding for about a three years now. I love building highly scalable products with great technological tools for clients. I have worked with startups and open-source projects.
+I have been Coding for three years now. I love building highly scalable products with great technological tools for clients. I have worked with startups and open-source projects.
 
 *   🌍  I'm based in Kumasi, Ghana
 *   ✉️  You can contact me at [mawulikofiagbenyo@gmail.com](mailto:mawulikofiagbenyo@gmail.com)
